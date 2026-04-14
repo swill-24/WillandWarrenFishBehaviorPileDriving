@@ -1,8 +1,6 @@
 # WillandWarrenFishBehaviorPileDriving
 Data sets and code for Will and Warren paper entitled offshore wind construction noise causes changes in fish presence and behavior 9-15 km away from construction site
 
-In order from appearance in code:
-
 pile_locations.csv: locations of foundations and landers
 
 Wind_Lease_Boundaries__BOEM__9141820183551236093/Offshore_Wind_Lease_Outlines.shp: shape files downloaded from BOEM
