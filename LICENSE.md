@@ -175,7 +175,7 @@
 
    END OF TERMS AND CONDITIONS
 
-   Copyright [2026] [Sophia Will]
+   Copyright [2026] [Sophia E. Will and Joseph D. Warren]
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
