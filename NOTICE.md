@@ -1,4 +1,4 @@
-Offshore wind construction noise causes changes in fish presence and behavior 9-15 km away from construction site data and code
+Data and code used in the manuscript: "Offshore wind construction noise causes changes in fish presence and behavior 9-15 km away from construction site"
 
 Copyright 2026 Sophia E. Will and Joseph D. Warren
 
