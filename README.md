@@ -11,6 +11,6 @@ SRWTracks.csv: fish track data from SRW lander
 
 background_rms_spl: broadband RMS SPL for one minute every 15 minutes of deployment of SRW lander excluding times with pile driving
 
-SFWTracks.csv: fish track data from SFW lander
+SFWTracks.csv: fish track data from SFW lander (after a pre-processing step of removing "invalid" tracks)
 
 pile_driving_and_locations.csv: .csv file that will be made during the code in order to avoid reloading in locations and hits databases separately when rerunning code
